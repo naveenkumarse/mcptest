@@ -1,3 +1,3 @@
-# mcptest
+# React Todo Application
 
-This is the README file for the `mcptest` repository.
+This is a simple React Todo application.
